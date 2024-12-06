@@ -1,0 +1,82 @@
+@font-face {
+    font-family: Manrope;
+    src: url(https://fonts.googleapis.com/css?family=Manrope);
+}
+
+body{
+    font-family: "Manrope";
+    font-size: 15px;
+    line-height: 25px;
+    font-weight: 500;
+}
+
+.block__white-text{
+    color: hsl(0, 0%, 100%)
+}
+
+.block--background-black{
+    background-color: hsl(0, 0%, 6%);
+}
+
+h1  {
+    font-size: 56px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    line-height: 58px;
+    text-transform: uppercase;
+}
+h2{
+    font-size: 40px;
+    font-weight: bold;
+    letter-spacing: 1.5px;
+    line-height: 44px;
+    text-transform: uppercase;
+}
+
+h3{
+    font-size: 32px;
+    font-weight: bold;
+    letter-spacing: 1.15px;
+    line-height: 36px;
+    text-transform: uppercase;
+}
+
+h4{
+    font-size: 28px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    line-height: 38px;
+    text-transform: uppercase;
+}
+
+h5{
+    font-size: 24px;
+    font-weight: bold;
+    letter-spacing: 1.7px;
+    line-height: 33px;
+    text-transform: uppercase;
+}
+
+h6{
+    font-size: 18px;
+    font-weight: bold;
+    letter-spacing: 1.3px;
+    line-height: 24px;
+    text-transform: uppercase;
+}
+
+.overline{
+    font-size: 14px;
+    font-weight: normal;
+    letter-spacing: 10px;
+    line-height: 19px;
+    text-transform: uppercase;
+}
+
+.subtitle{
+    font-size: 13px;
+    font-weight: bold;
+    letter-spacing: 1pxpx;
+    line-height: 25px;
+    text-transform: uppercase;
+}
